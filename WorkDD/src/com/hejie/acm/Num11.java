@@ -1,35 +1,37 @@
 package com.hejie.acm;
 
 /**
- * 给你一个字符串 s，「k 倍重复项删除操作」将会从 s 中选择 k 个相邻且相等的字母，并删除它们，使被删去的字符串的左侧和右侧连在一起。
- *
- * 你需要对 s 重复进行无限次这样的删除操作，直到无法继续为止。
- *
- * 在执行完所有删除操作后，返回最终得到的字符串。
- *
- * 本题答案保证唯一。
+ * 给你一个数组 nums，对于其中每个元素 nums[i]，请你统计数组中比它小的所有数字的数目。
+ * 换而言之，对于每个 nums[i] 你必须计算出有效的 j 的数量，其中 j 满足 j != i 且 nums[j] < nums[i] 。
+ * 以数组形式返回答案。
+ * <p>
  * 示例 1：
- *
- * 输入：s = "abcd", k = 2
- * 输出："abcd"
- * 解释：没有要删除的内容。
- * 示例 2：
- *
- * 输入：s = "deeedbbcccbdaa", k = 3
- * 输出："aa"
+ * <p>
+ * 输入：nums = [8,1,2,2,3]
+ * 输出：[4,0,1,1,3]
  * 解释：
- * 先删除 "eee" 和 "ccc"，得到 "ddbbbdaa"
- * 再删除 "bbb"，得到 "dddaa"
- * 最后删除 "ddd"，得到 "aa"
- *
+ * 对于 nums[0]=8 存在四个比它小的数字：（1，2，2 和 3）。
+ * 对于 nums[1]=1 不存在比它小的数字。
+ * 对于 nums[2]=2 存在一个比它小的数字：（1）。
+ * 对于 nums[3]=2 存在一个比它小的数字：（1）。
+ * 对于 nums[4]=3 存在三个比它小的数字：（1，2 和 2）。
  */
 public class Num11 {
     public static void main(String[] args) {
-        String s = "lrloseumgh";
-        int n = 6;
-        System.out.println(removeDuplicates(s, n));
+        int[] nums = {8, 1, 2, 2, 3};
+        System.out.println(smallerNumbersThanCurrent(nums));
     }
 
-    public static String removeDuplicates(String s, int k) {
+    public static int[] smallerNumbersThanCurrent(int[] nums) {
+        int[] result = new int[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = 0; j < nums.length; j++) {
+                if (nums[i] > nums[j]) {
+                    result[i]++;
+                }
+            }
+        }
+        return result;
     }
+
 }

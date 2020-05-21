@@ -5,10 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ba46293-9d1a-4a76-ad65-bc10778a1644" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num37.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WorkDD/com/hejie/acm/Num9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorkDD/com/hejie/acm/Num9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hejie/acm/Num11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num11.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +45,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num11.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num31.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+            <state relative-caret-position="390">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num10.java">
+        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num32.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="25" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="442">
+              <caret line="17" column="22" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num33.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num34.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="30" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num35.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num36.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="e#998#999#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num37.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="4568" column="28" selection-start-line="4568" selection-start-column="28" selection-end-line="4568" selection-end-column="28" />
+              <folding>
+                <element signature="e#190944#190945#0" expanded="true" />
+                <element signature="e#190987#190988#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="1000" column="57" selection-start-line="1000" selection-start-column="57" selection-end-line="1000" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
+              <folding>
+                <element signature="e#82971#82972#0" expanded="true" />
+                <element signature="e#83020#83021#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,11 +180,36 @@
         <option value="$PROJECT_DIR$/src/com/hejie/acm/Num.java" />
         <option value="$PROJECT_DIR$/src/com/hejie/acm/Num10.java" />
         <option value="$PROJECT_DIR$/src/com/hejie/acm/Num11.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num12.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num13.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num14.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num15.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num16.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num17.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num18.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num20.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num21.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num22.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num23.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num24.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num25.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num26.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num27.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num28.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num29.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num30.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num31.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num32.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num33.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num34.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num35.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num36.java" />
+        <option value="$PROJECT_DIR$/src/com/hejie/acm/Num37.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -78,8 +219,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +248,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584864759142" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590078780860" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -115,7 +256,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,9 +270,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Num10">
-    <configuration name="Num10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num10" />
+  <component name="RunManager" selected="Application.Num37">
+    <configuration name="Num31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num31" />
       <module name="WorkDD" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +284,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num6" />
+    <configuration name="Num32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num32" />
       <module name="WorkDD" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +297,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num7" />
+    <configuration name="Num33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num33" />
       <module name="WorkDD" />
       <extension name="coverage">
         <pattern>
@@ -169,8 +310,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num8" />
+    <configuration name="Num34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num34" />
       <module name="WorkDD" />
       <extension name="coverage">
         <pattern>
@@ -182,8 +323,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num9" />
+    <configuration name="Num37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hejie.acm.Num37" />
       <module name="WorkDD" />
       <extension name="coverage">
         <pattern>
@@ -197,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Num10" />
-        <item itemvalue="Application.Num9" />
-        <item itemvalue="Application.Num8" />
-        <item itemvalue="Application.Num7" />
-        <item itemvalue="Application.Num6" />
+        <item itemvalue="Application.Num37" />
+        <item itemvalue="Application.Num34" />
+        <item itemvalue="Application.Num33" />
+        <item itemvalue="Application.Num32" />
+        <item itemvalue="Application.Num31" />
       </list>
     </recent_temporary>
   </component>
@@ -239,18 +380,38 @@
       <workItem from="1583932669877" duration="144000" />
       <workItem from="1584186627814" duration="121000" />
       <workItem from="1584863715549" duration="1641000" />
-      <workItem from="1584969248674" duration="250000" />
+      <workItem from="1584969248674" duration="622000" />
+      <workItem from="1585064515544" duration="494000" />
+      <workItem from="1585317283226" duration="2855000" />
+      <workItem from="1585448718356" duration="319000" />
+      <workItem from="1585489862885" duration="1256000" />
+      <workItem from="1586004400426" duration="633000" />
+      <workItem from="1587564666809" duration="597000" />
+      <workItem from="1588391191534" duration="2779000" />
+      <workItem from="1588414982026" duration="2116000" />
+      <workItem from="1588579875892" duration="6778000" />
+      <workItem from="1588655274016" duration="5980000" />
+      <workItem from="1588778340136" duration="599000" />
+      <workItem from="1588865949967" duration="1945000" />
+      <workItem from="1589108688817" duration="644000" />
+      <workItem from="1589554169506" duration="1196000" />
+      <workItem from="1589593480409" duration="5917000" />
+      <workItem from="1589692858758" duration="10063000" />
+      <workItem from="1589904036606" duration="274000" />
+      <workItem from="1589904912733" duration="1363000" />
+      <workItem from="1589987100841" duration="3947000" />
+      <workItem from="1590070456461" duration="8191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36358000" />
+    <option name="totallyTimeSpent" value="94676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10074627" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -259,8 +420,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23995535" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.62053573" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.29575893" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3470982" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -268,7 +429,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.29575893" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32924107" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -286,13 +447,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Num.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1014">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -348,17 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141076">
-          <caret line="5486" column="26" selection-start-line="5486" selection-start-column="26" selection-end-line="5486" selection-end-column="26" />
-          <folding>
-            <element signature="e#190944#190945#0" expanded="true" />
-            <element signature="e#190987#190988#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7748">
@@ -373,7 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num.java" />
     <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -388,17 +530,286 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num11.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        <state relative-caret-position="495">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="584" column="4" lean-forward="true" selection-start-line="584" selection-start-column="4" selection-end-line="584" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="31" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="34" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="41" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
-          <caret line="25" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="5" selection-start-line="19" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="34" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="32" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="53" column="5" selection-start-line="31" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="36" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5434">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="41" column="5" selection-start-line="19" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11752">
+          <caret line="494" column="16" selection-start-line="494" selection-start-column="16" selection-end-line="494" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15080">
+          <caret line="613" column="22" selection-start-line="613" selection-start-column="22" selection-end-line="613" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9386">
+          <caret line="398" column="25" selection-start-line="398" selection-start-column="25" selection-end-line="398" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="33" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="29" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="22" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1000" column="57" selection-start-line="1000" selection-start-column="57" selection-end-line="1000" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="4568" column="28" selection-start-line="4568" selection-start-column="28" selection-end-line="4568" selection-end-column="28" />
+          <folding>
+            <element signature="e#190944#190945#0" expanded="true" />
+            <element signature="e#190987#190988#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
+          <folding>
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
