@@ -4,24 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/hejie/acm/Num2.java" line="19" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba46293-9d1a-4a76-ad65-bc10778a1644" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num74.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num76.java" afterDir="false" />
+    <list default="true" id="4ba46293-9d1a-4a76-ad65-bc10778a1644" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WorkDD/com/hejie/acm/Num37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorkDD/com/hejie/acm/Num37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hejie/acm/Num76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hejie/acm/Num76.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num76.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+            <state relative-caret-position="495">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="26" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -154,14 +139,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618410084174" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625929808617" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -364,7 +349,9 @@
       <workItem from="1618321703833" duration="793000" />
       <workItem from="1618407754011" duration="1906000" />
       <workItem from="1618579856396" duration="1307000" />
-      <workItem from="1621521137039" duration="256000" />
+      <workItem from="1621521137039" duration="889000" />
+      <workItem from="1624887993347" duration="594000" />
+      <workItem from="1625929031705" duration="1081000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1614004904634</created>
@@ -373,17 +360,24 @@
       <option name="project" value="LOCAL" />
       <updated>1614004904634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1621521409375</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621521409375</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229829000" />
+    <option name="totallyTimeSpent" value="232137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11513859" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,7 +386,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.25028184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39007893" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -828,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hejie/acm/Num76.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        <state relative-caret-position="495">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
